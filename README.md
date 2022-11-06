@@ -14,10 +14,10 @@ The Film Junky Union, a new edgy community for classic movie enthusiasts, is dev
 Important! The project template already contains some code snippets for your convenience, so you can use them if you'd like. If you want to start right away from a clean sheet, just remove all those code snippets. Here's the list of code snippets:<br>
 
 <ul><li>A bit of EDA with some plots</li>
-<li>evaluate_model()</li>
+<ul><li>`evaluate_model`()</li></ul></li>
 <li>a routine to evaluate a classification model which conforms to the scikit-learn predict interface</li>
-<li>BERT_text_to_embeddings()</li>
-<li>a routing to convert a list of texts into embedding with BERT/ul></li>
+<ul><li>BERT_text_to_embeddings()</li></ul></li>
+<li>a routing to convert a list of texts into embedding with BERT</ul></li>
 
 The main job to build and evaluate models is your own.<br>
 As you can see from the project template, we suggest trying classification models based on logistic regression and gradient boosting, but feel free to try other methods. You can mess around with the project template's structure as long as the project's instructions are completed.<br>
