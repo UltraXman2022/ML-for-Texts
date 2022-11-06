@@ -27,7 +27,7 @@ You don't have to use BERT for the project because it is very demanding for comp
 <h4>Data Description</h4>
 The data is stored in the imdb_reviews.tsv file. Download the dataset.<br>
 
-*The data was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).<br>
+<i>The data was provided by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).</i>
 
 Here's the description of the selected fields:<br>
 <ul><li>review: the review text</li>
