@@ -33,4 +33,5 @@ Here's the description of the selected fields:<br>
 <ul><li>review: the review text</li>
 <li>pos: the target, '0' for negative and '1' for positive</li>
 <li>ds_part: 'train'/'test' for the train/test part of dataset, correspondingly</ul></li>
+
 There are other fields in the dataset. Feel free to explore them if you'd like
